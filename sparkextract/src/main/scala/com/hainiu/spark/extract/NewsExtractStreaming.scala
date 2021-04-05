@@ -6,6 +6,7 @@ package com.hainiu.spark.extract
 * 提取正文后保存 ES和 Hbase
   * 版本一
   * 分支1
+  * 主管添加
 * */
 
 import java.io.BufferedReader
