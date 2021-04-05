@@ -4,6 +4,8 @@ package com.hainiu.spark.extract
 * 读取kafka 中的html，抽取xpath，保存到redis中
 * 读取Kafka中的 html，根据host，找到广播变量中对应的 xpath
 * 提取正文后保存 ES和 Hbase
+  * 版本一
+  * 分支1
 * */
 
 import java.io.BufferedReader
